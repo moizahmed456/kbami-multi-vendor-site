@@ -1,0 +1,16 @@
+[23-Aug-2020 21:27:33 America/New_York] PHP Fatal error:  Trait 'Dimsav\Translatable\Translatable' not found in /home/customer/www/kbami.com/public_html/app/CategoryGroup.php on line 12
+[23-Aug-2020 21:27:38 America/New_York] PHP Fatal error:  Trait 'Dimsav\Translatable\Translatable' not found in /home/customer/www/kbami.com/public_html/app/CategoryGroup.php on line 12
+[23-Aug-2020 21:27:57 America/New_York] PHP Fatal error:  Trait 'Dimsav\Translatable\Translatable' not found in /home/customer/www/kbami.com/public_html/app/CategoryGroup.php on line 12
+[23-Aug-2020 21:28:00 America/New_York] PHP Fatal error:  Trait 'Dimsav\Translatable\Translatable' not found in /home/customer/www/kbami.com/public_html/app/CategoryGroup.php on line 12
+[31-Aug-2020 12:03:21 CST6CDT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illumina in /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
+[31-Aug-2020 12:04:10 CST6CDT] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:234
+Stack trace:
+#0 /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illumina in /home/customer/www/kbami.com/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 234
